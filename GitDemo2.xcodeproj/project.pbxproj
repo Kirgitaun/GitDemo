@@ -16,6 +16,7 @@
 		901EAB2925B48E530099C64D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 901EAB2725B48E530099C64D /* LaunchScreen.storyboard */; };
 		901EAB3425B48E530099C64D /* GitDemo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901EAB3325B48E530099C64D /* GitDemo2Tests.swift */; };
 		901EAB3F25B48E530099C64D /* GitDemo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 901EAB3E25B48E530099C64D /* GitDemo2UITests.swift */; };
+		90F0458825B72F46008261D3 /* .gitignore.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90F0458725B72F46008261D3 /* .gitignore.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		901EAB3A25B48E530099C64D /* GitDemo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		901EAB3E25B48E530099C64D /* GitDemo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemo2UITests.swift; sourceTree = "<group>"; };
 		901EAB4025B48E530099C64D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90F0458725B72F46008261D3 /* .gitignore.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = .gitignore.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		901EAB0D25B48E520099C64D = {
 			isa = PBXGroup;
 			children = (
+				90F0458725B72F46008261D3 /* .gitignore.xib */,
 				901EAB1825B48E520099C64D /* GitDemo2 */,
 				901EAB3225B48E530099C64D /* GitDemo2Tests */,
 				901EAB3D25B48E530099C64D /* GitDemo2UITests */,
@@ -235,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				901EAB2925B48E530099C64D /* LaunchScreen.storyboard in Resources */,
+				90F0458825B72F46008261D3 /* .gitignore.xib in Resources */,
 				901EAB2625B48E530099C64D /* Assets.xcassets in Resources */,
 				901EAB2125B48E520099C64D /* Main.storyboard in Resources */,
 			);
