@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hey epta!")
-        // Do any additional setup after loading the view.
+        print("Hello GitHub!")
     }
 
 
